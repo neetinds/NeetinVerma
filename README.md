@@ -1,7 +1,9 @@
 
 
 # NeetinVerma
-Technical Associate Director | Financial Technology Leader | AI & Data Science Enthusiast | LLM Modelling | GenAI | Cloud(GCP, AWS) | MCP
+Technical Associate Director | Financial Technology Leader | AI & Data Science Enthusiast | LLM Modelling | GenAI | Cloud(GCP, AWS) | MCP 
+
+Hobbies | IRONMAN 140.7 & 70.3 | Half Marathon : 1:37 | Full Marathon : 3:37 
 
 
 
