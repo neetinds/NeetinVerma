@@ -1,7 +1,7 @@
 
 
 # NeetinVerma
-Technical Associate Director | Financial Technology Leader | AI & Data Science Enthusiast | LLM Modelling | GenAI | Cloud | MC
+Technical Associate Director | Financial Technology Leader | AI & Data Science Enthusiast | LLM Modelling | GenAI | Cloud(GCP, AWS) | MCP
 
 
 
@@ -16,3 +16,25 @@ Technical Associate Director | Financial Technology Leader | AI & Data Science E
 [![](https://visitcount.itsvg.in/api?id=neetinds&icon=3&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 📊 Core Skillset
+**Extensive Domain Expertise:** 20+ years of experience in financial technology, spanning front office (trading platforms, portfolio management) to back office (settlement, reporting, compliance)<br/>
+**Global Technology Leadership:** Proven track record managing cross-functional, multi-geography teams in complex, high-performance environments  <br/>
+**Data Science & AI Proficiency:** Over 600+ hours of hands-on learning in data science, machine learning, and LLM (Large Language Model) modeling.<br/>
+**Full-Stack Technical Knowledge:** Deep understanding of application architecture, APIs, data pipelines, and cloud infrastructure (AWS, Azure).<br/>
+**Innovation-Driven Mindset:** Constantly learning emerging technologies like Generative AI, Multi-Cloud Platforms (MCP), quantum computing, and edge AI <br/>
+**Strategic Thinking:** Aligns technology roadmaps with business goals to drive innovation, scalability, and ROI <br/>
+**Agile and DevOps Champion:** Implements CI/CD, infrastructure-as-code, and agile methodologies to improve delivery speed and system resilience<br/>
+**Cybersecurity and Governance:** Adept at managing risk, compliance, and cybersecurity frameworks within financial service <br/>
+**Strong Communication Skills:** Engages effectively with C-level stakeholders, technologists, and business teams <br/>
+
+# 📊 Roles & Responsibilities
+**Technology Strategy & Execution:** Define and drive global technology strategy for investment management platforms, ensuring alignment with business vision<br/>
+**Leadership & Team Building:** Lead and mentor global engineering teams across regions, fostering innovation, accountability, and continuous learning<br/>
+**Platform Modernization:** Oversee re-architecture and modernization of legacy systems using cloud-native, AI/ML-driven solutions<br/>
+**AI & Data-Driven Innovation:** Integrate AI/ML and GenAI capabilities into core business functions such as risk management, client analytics, and operations<br/>
+**End-to-End Delivery Oversight:** Manage technology delivery across the trade lifecycle — from portfolio construction and order management to post-trade operations<br/>
+**Vendor & Stakeholder Management:** Collaborate with external technology vendors and internal business stakeholders to deliver efficient, scalable solutions<br/>
+**Change & Risk Management:** Spearhead transformation initiatives while ensuring robust change management and operational risk controls<br/>
+**Budget & Resource Optimization:** Manage multi-million-dollar tech budgets, optimizing resource allocation and cost-efficiency<br/>
+**Technology Evangelism:** Advocate for emerging technologies within the organization, influencing adoption and upskilling programs<br/>
